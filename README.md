@@ -16,8 +16,6 @@ This repository documents my initial setup and configuration of a cybersecurity 
 ### 1. **VirtualBox Network Manager**
 The foundation of our virtual lab environment where we configure isolated networks for safe testing.
 
-![VirtualBox Network Configuration](screenshots/01-virtualbox-network-config.png)
-
 **Configuration Details:**
 - **Network Name:** NatNetwork
 - **IPv4 Prefix:** 10.0.0.0/24
@@ -30,8 +28,6 @@ The foundation of our virtual lab environment where we configure isolated networ
 ### 2. **Kali Linux Homepage**
 Kali Linux is a specialized Linux distribution for penetration testing and cybersecurity auditing.
 
-![Kali Linux Homepage](screenshots/02-kali-linux-homepage.png)
-
 **Key Features:**
 - Pre-installed penetration testing tools
 - Network analysis utilities
@@ -43,8 +39,6 @@ Kali Linux is a specialized Linux distribution for penetration testing and cyber
 
 ### 3. **Kali Network Configuration**
 Fine-tuning network settings on the Kali Linux VM for optimal lab performance.
-
-![Kali Network Settings](screenshots/03-kali-network-settings.png)
 
 **Network Setup:**
 - **Connection Name:** Wired connection 1
@@ -59,8 +53,6 @@ Fine-tuning network settings on the Kali Linux VM for optimal lab performance.
 
 ### 4. **VirtualBox Welcome Screen**
 The main VirtualBox interface showing available virtual machines and lab resources.
-
-![VirtualBox Welcome](screenshots/04-virtualbox-welcome.png)
 
 **Next Steps:**
 - Create new virtual machines
