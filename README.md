@@ -22,6 +22,7 @@ The foundation of our virtual lab environment where we configure isolated networ
 - **IPv6 Prefix:** fd17:625c:f037::/64
 - **DHCP Server:** Enabled
 - **Purpose:** Provides NAT networking for virtual machines
+- <img width="1920" height="1080" alt="network set 3" src="https://github.com/user-attachments/assets/cfd20a86-de1f-4306-be78-4c940207d4a3" />
 
 ---
 
@@ -34,6 +35,7 @@ Kali Linux is a specialized Linux distribution for penetration testing and cyber
 - Vulnerability assessment frameworks
 - Ethical hacking toolset
 - Comprehensive documentation available at kali.org
+- <img width="1278" height="810" alt="runing kali" src="https://github.com/user-attachments/assets/aac77f1c-0ced-42ac-8ace-d73a8cac40f5" />
 
 ---
 
@@ -48,6 +50,7 @@ Fine-tuning network settings on the Kali Linux VM for optimal lab performance.
 - **Gateway:** 10.0.0.1
 - **DNS Server:** 8.8.8.8
 - **Purpose:** Static IP assignment for consistent network access
+<img width="1178" height="742" alt="Setting up Net work in KALI" src="https://github.com/user-attachments/assets/f9133069-7e9a-454c-8318-99373d00ecdb" />
 
 ---
 
@@ -59,6 +62,7 @@ The main VirtualBox interface showing available virtual machines and lab resourc
 - Import existing VM images
 - Configure machine settings
 - Manage snapshots and backups
+<img width="1276" height="816" alt="configuring network set up" src="https://github.com/user-attachments/assets/fb66cfa2-d0bd-424e-9ff6-2a462fbc8671" />
 
 ---
 
